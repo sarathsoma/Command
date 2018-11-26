@@ -1,4 +1,4 @@
-#Command
+# Command
 A boilerpate project to create unix like commands using [Click](https://github.com/pallets/click).
 
 Steps to create a command :
